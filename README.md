@@ -101,6 +101,7 @@ On the topic of cost-cutting, we can query for and utilize the salaries of the p
 | Quality Management | 46,415.29 | 206,455,205 | 68,818,570 |
 | Human Resources | 44,944.13 | 176,405,709 | 58,801,903 |
 | Total | 52,896.04 | 3,832,741,608 | 1,277,580,536 |  
+
 \*The potential savings in the table above is calculated with the aforementioned replacement rate of 2 new hires for 3 retirees. Saving over one-and-a-quarter billion dollars in salaries is a welcome change under this plan.
 
 
